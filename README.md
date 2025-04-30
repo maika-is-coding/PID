@@ -24,7 +24,7 @@
 - Arduino IDE
 - PID_v1 庫（用於 PID 控制算法）
 
-## 安裝 PID_v1 庫
+## 安裝 PID_v1
 
 在 Arduino IDE 中，請按以下步驟安裝 PID_v1 庫：
 
